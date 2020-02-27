@@ -2,7 +2,6 @@
 ## Mod 4 Group Project at Turing School of Software & Design
  
 ## Frontend Team: [Benjamin Firth](https://github.com/benjamin-firth) & [Kayla Wood](https://github.com/kaylaewood)
-## Backend Team: [Mary Lang](https://github.com/mcat56) & [Christopher Kelling](https://github.com/cjkelling)
 
 ![desktop](https://media.giphy.com/media/J5FmlmeNJwJK8c6Nf3/giphy.gif)
 
